@@ -1,0 +1,11 @@
+[
+    {
+        "name": "stream1",
+        "url": "rtmp://localhost:1935/live/stream1"
+    },
+    {
+        "name": "stream2",
+        "url": "rtmp://localhost:1935/live/stream2"
+    }
+]
+
